@@ -9,4 +9,4 @@
 - [cohlecohle](https://github.com/cohlecohle) - разрабочик модели, основанной на дереве решений
 - [EgorOfff](https://github.com/EgorOfff) - разрабочик десктопного приложения 
 - [novinkstd](https://github.com/novinkstd) - разработчик очистки данных
-- [sullentrash](https://github.com/sullentrash) - 
+- [sullentrash](https://github.com/sullentrash) - разработчик нейросетевой модели (для тестирования данного подхода)
